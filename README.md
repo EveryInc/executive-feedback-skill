@@ -56,9 +56,3 @@ Source access is read-only. The skill doesn't send or edit work messages, contac
 Use only material you're authorized to share with your assistant. Keep personal calibration and review history private. These instructions guide the assistant; your host's permissions provide the access controls. Check its feedback against the context and decide what to change yourself.
 
 This repository adapts a private coaching workflow. It contains no private conversations, teammate identities, account settings, credentials, or automation state.
-
-## Contributing and license
-
-See [CONTRIBUTING.md](CONTRIBUTING.md). Use fictional or fully sanitized examples in issues and pull requests.
-
-[MIT License](LICENSE). Copyright (c) 2026 Every.
